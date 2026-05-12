@@ -16,3 +16,11 @@ This analyzed flight booking data using generate the clean, manipulate , and tra
 11. Predict Results
 12. Evaluate Model
 13. Visualize Results
+
+The provided a complete Data Analysis Process with Python code using:
+
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
