@@ -24,3 +24,28 @@ The provided a complete Data Analysis Process with Python code using:
 * Matplotlib
 * Seaborn
 * Scikit-learn
+  
+# 20 SQL Analysis Requirements
+1. Total Number of Bookings
+2. Total Revenue
+3. Average Ticket Price
+4. Highest Ticket Price
+5. Lowest Ticket Price
+6. Total Passengers by Airline
+7. Total Revenue by Airline
+8. Average Ticket Price by Travel Class
+9. Passenger Count by Travel Class
+10. Most Used Payment Method
+11. Average Passenger Age
+12. Youngest and Oldest Passenger
+13. Average Flight Duration
+14. Longest Flight Distance
+15. Average Distance by Airline
+16. Top 5 Most Expensive Bookings
+17. City with Highest Number of Departures
+18. Revenue by Payment Method
+19. Percentage of Each Travel Class
+20. Airline with Highest Average Ticket Price
+
+
+# Power BI visualization Tool
