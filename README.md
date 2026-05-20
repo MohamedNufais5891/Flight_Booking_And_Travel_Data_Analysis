@@ -47,5 +47,11 @@ The provided a complete Data Analysis Process with Python code using:
 19. Percentage of Each Travel Class
 20. Airline with Highest Average Ticket Price
 
+# PowerBI Visualization
+* Overview
+* Revenue
+* Rating Class
+* Age Vs Departure City
+* Passenger_Age
 
 # Power BI visualization Tool
