@@ -53,5 +53,3 @@ The provided a complete Data Analysis Process with Python code using:
 * Rating Class
 * Age Vs Departure City
 * Passenger_Age
-
-# Power BI visualization Tool
